@@ -1,0 +1,8 @@
+1. web table handle
+2. fluent time(synchronize)
+3. javascript executor
+4. autoIT 
+5. log4j2.properties file 
+6. session 47 - headless browser testing(bina GUI ke output show hota h)
+-----------
+cucumber - maven and jankins

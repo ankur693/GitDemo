@@ -1,0 +1,10 @@
+|| Advanced Interview Questions|| || Senior QA ||
+1. How to Handle AJAX Elements?
+2. What is a fluent wait?
+3. What is self-join?
+4. Write a program to find the Fibonacci numbers using Recursion.
+5. Write a program that gives O/p: a2b2c3d2 for the Input String Str=”aabbcccdd“. You must check all the conditions so the code can’t break.
+6. Explain the internal architecture of HashMAP.
+7. What are the Constraints in SQL?
+8. Why did we use Maven?
+9. How will you execute the scenario If you have 100 test scripts… if test case no. 61 passes, then don’t run/execute tests 62 to 67.
